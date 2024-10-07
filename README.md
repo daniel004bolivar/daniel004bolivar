@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Daniel Bolivar
-- 👀 I’m interested in data analytics and psychometry
-- 🌱 I’m currently learning Latent Class Analysis, Machine Learning and Social Science
-- 💞️ I’m looking to collaborate on Psychometry
+Hi there!
+
+I'm a data scientist, statistician, R enthusiast, and social academic currently working in psychometrics, machine Learning, and social science
+
+Professional website: danielbolivar-website.netlify.app 
+
+Data science blog: coming soon 
+
 
 
 <!---
