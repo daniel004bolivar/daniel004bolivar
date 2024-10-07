@@ -2,9 +2,9 @@ Hi there!
 
 I'm a data scientist, statistician, R enthusiast, and social academic currently working in psychometrics, machine Learning, and social science
 
-Professional website: danielbolivar-website.netlify.app 
+- Professional website: [Daniel Website](danielbolivar-website.netlify.app)
+- Data science blog: coming soon 
 
-Data science blog: coming soon 
 
 
 
